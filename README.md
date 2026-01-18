@@ -6,7 +6,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 ## Information Collection and Use
 
-The app does use third party services that may collect information used to identify you.
+The app may use third party services that may collect information used to identify you.
 Link to privacy policy of third party service providers used by the app:
 
 ･ Google Play Services (https://policies.google.com/privacy)
